@@ -1,0 +1,33 @@
+h1{
+    padding: 10px;
+    color: rgb(51, 34, 34);
+}
+
+p{
+    padding-bottom: 200px;
+
+}
+
+.container{
+    background-color: rgb(231, 119, 14);
+    width: 800px;
+    height: 500px;
+    text-align: left;
+    display: flex;
+    margin-top: 5rem;
+    margin-left: 18rem;
+
+}
+
+.new2{
+    background-color: blue;
+    justify-items: center;
+}
+
+.new3{
+    background-color: rgb(175, 20, 136);
+}
+button{
+    color: black;
+    border-radius: 50px;
+}
